@@ -33,4 +33,10 @@ hejka
 # jak poradzic sobie z tokenem by byl zapamietany 
 git config 
 
+# brancze 
+git checkout -b add-document
+git fetch
+git status
+
+
 
