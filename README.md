@@ -26,3 +26,7 @@ touch README.md
 # repozytorium
 atom .
 nano README.md# nauka_gita
+
+# dodaje nowe
+hejka
+
