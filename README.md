@@ -30,3 +30,7 @@ nano README.md# nauka_gita
 # dodaje nowe
 hejka
 
+# jak poradzic sobie z tokenem by byl zapamietany 
+git config 
+
+
