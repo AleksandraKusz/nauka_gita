@@ -32,5 +32,7 @@ hejka
 
 # jak poradzic sobie z tokenem by byl zapamietany 
 git config 
+# mozemy prjekt skolonowac, kod pobieramy na inny komputer
+
 
 
